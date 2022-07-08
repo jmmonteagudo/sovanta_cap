@@ -1,7 +1,7 @@
 { 'suspects': [ 
     {name: "Miss pepe", color: "blue"}
     {name: "Agustin", color: "blue"}
-    {name: "Nombres3", color: "blue"}
+    {name: "Diego", color: "blue"}
     {name: "Nombres4", color: "blue"}
     ]
     }

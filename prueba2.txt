@@ -1,4 +1,6 @@
-prueba num 85847
-prueba num 85847linea 2
-prueba num 8584 linea 3
-prueba num 8584 linea 4
+{ 'suspects': [ 
+    {name: "Rusty", color: "orange"},
+    {name: "Miss Scarlet", color: "blue"}
+    {name: "Miss pepe", color: "blue"}
+    {name: "Miss juan", color: "blue"}
+    ]}

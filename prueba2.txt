@@ -1,6 +1,12 @@
 { 'suspects'3: [ 
-    {name: "Rusty", color: "orange"},
-    {name: "Miss Scarlet", color: "blue"}
     {name: "Miss pepe", color: "blue"}
+    
+    
+        {name: "Rusty", color: "orange"},
+    {name: "Miss Scarlet", color: "blue"}
+    
     {name: "Miss juan", color: "blue"}
+   {name: "Miss juan", color: "blue"}
+      {name: "Miss juan", color: "blue"}
+
     ]}
